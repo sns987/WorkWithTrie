@@ -8,8 +8,6 @@ namespace BackEndTestApp.PrefixTree
     {
         private const int WithSamePrefixWordMaxCount = 10;
         private const char EndOfWordElement = '.';
-        private static int b = a;
-        private static int a = 5;
         
         public Trie()
         {
